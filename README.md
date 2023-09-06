@@ -51,23 +51,8 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>Code Distribution</summary>
-        <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaellacoelho&layout=compact&theme=radical" />
-        </div>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>Readme Stats</summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=rafaellacoelho&show_icons=true&theme=radical" />
-      </details>
-    </td>
-  </tr>
-</table>
+<div>
+  <a href="https://github.com/rafaellacoelho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellacoelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellacoelho&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
