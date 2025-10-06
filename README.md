@@ -21,7 +21,7 @@
 @@I'm a lover of technology and games@@
 
 + Living in Ipatinga, Brazil
-- 26 years old
+- 28 years old
 ! Front End Developer, Support Analyst and always studying some technology
 # Interested in ReactJS
 ```
